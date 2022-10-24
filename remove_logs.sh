@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Reset apache log files
 echo "" > /var/log/apache2/access.log
